@@ -1,174 +1,106 @@
-# Apoorva Prakash
+<h1 align="center">Hi, I'm Apoorva Prakash</h1>
 
-### Software Developer | Computer Science Engineering
+<p align="center">
+  Software Developer | Cybersecurity | AI/ML | Web Development
+</p>
 
-I build practical software projects across web development, cybersecurity, AI/ML, and developer tools.
-
-I learn by building, experimenting with new technologies, and turning ideas into working applications.
-
----
-
-## About Me
-
-- B.Tech in Computer Science Engineering (Cyber Security)
-- Interested in Software Development, Cybersecurity, AI/ML, and Web Development
-- Currently exploring LLMs, real-time applications, and AI-assisted development
-- Interested in building practical and useful software
+<p align="center">
+  <a href="https://www.linkedin.com/in/apoorvaprakash2004">LinkedIn</a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/APRO-75">GitHub</a>
+  &nbsp; | &nbsp;
+  <a href="mailto:ap75ro@gmail.com">Email</a>
+</p>
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-**Languages**
-
-Python · Java · C++ · JavaScript · TypeScript · SQL · Bash
-
-**Web Development**
-
-React · Vite · HTML · CSS · Tailwind CSS · Flask · Streamlit
-
-**Backend & Infrastructure**
-
-Node.js · Express · WebSockets · Cloudflare Workers · Durable Objects · Firebase
-
-**AI / Machine Learning**
-
-TensorFlow · MediaPipe · OpenCV · LSTM · Jupyter Notebook
-
-**Cybersecurity**
-
-Cryptography · AES · RSA · Steganography · Hashcat
-
-**Databases & Data**
-
-SQL · SQLite · PostgreSQL · MongoDB · SQLAlchemy
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,vite,html,css,nodejs,flask,streamlit,tensorflow,opencv,firebase,mongodb,postgres,git,github,cloudflare" />
+</p>
 
 ---
 
-## Featured Projects
+<h2 align="center">What I Build</h2>
 
-### Secure Steganography-Based Communication System
-
-A security-focused communication application combining encrypted messaging, image steganography, OTP verification, file sharing, and steganalysis.
-
-`Python` `AES` `OpenCV` `Steganography`
-
-[View Repository](https://github.com/APRO-75/StegnographyCom)
-
----
-
-### Collaborative Classroom Board
-
-A real-time collaborative whiteboard where multiple users can create or join rooms, draw together, add shapes, and see live cursor movements.
-
-`React` `TypeScript` `WebSockets` `Cloudflare Workers` `Durable Objects`
-
-[View Repository](https://github.com/APRO-75/BoardLab)
+<p align="center">
+  Cybersecurity &nbsp; | &nbsp;
+  AI / ML &nbsp; | &nbsp;
+  Web Applications &nbsp; | &nbsp;
+  Real-Time Systems &nbsp; | &nbsp;
+  LLM Projects
+</p>
 
 ---
 
-### Local Colab LLM Setup
+<h2 align="center">Featured Projects</h2>
 
-An experimental setup for running an LLM on Google Colab and routing it to a local development environment, allowing the local IDE to use remote GPU resources.
+<p align="center">
 
-`Python` `Jupyter Notebook` `LLM` `Google Colab`
+<a href="https://github.com/APRO-75/StegnographyCom">
+  <img src="https://img.shields.io/badge/Secure%20Steganography-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[View Repository](https://github.com/APRO-75/Local_Colab_LLM_Setup)
+<a href="https://github.com/APRO-75/sign-language-translator-ai">
+  <img src="https://img.shields.io/badge/Sign%20Language%20Translator-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<a href="https://github.com/APRO-75/BoardLab">
+  <img src="https://img.shields.io/badge/Collaborative%20Board-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### AI-Based Indian Sign Language Translator
+<br>
 
-A real-time sign language recognition project using webcam input, MediaPipe hand tracking, and an LSTM-based machine learning model.
+<a href="https://github.com/APRO-75/Local_Colab_LLM_Setup">
+  <img src="https://img.shields.io/badge/Local%20Colab%20LLM-181717?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</a>
 
-`Python` `TensorFlow` `MediaPipe` `OpenCV`
+<a href="https://github.com/APRO-75/WinXp_Portfolio">
+  <img src="https://img.shields.io/badge/Windows%20XP%20Portfolio-181717?style=for-the-badge&logo=react&logoColor=white" />
+</a>
 
-[View Repository](https://github.com/APRO-75/sign-language-translator-ai)
+<a href="https://github.com/APRO-75/ecommerce-analytics_sql">
+  <img src="https://img.shields.io/badge/E--Commerce%20Analytics-181717?style=for-the-badge&logo=postgresql&logoColor=white" />
+</a>
 
----
-
-### Windows XP Portfolio
-
-An interactive portfolio inspired by the Windows XP desktop experience, built with a desktop-style interface and interactive windows.
-
-`TypeScript` `React` `Vite` `Tailwind CSS`
-
-[View Repository](https://github.com/APRO-75/WinXp_Portfolio)
-
----
-
-### E-commerce Sales Analytics
-
-A SQL-focused analytics application for exploring e-commerce sales data, customer behaviour, and business performance.
-
-`Python` `Flask` `SQLAlchemy` `SQL` `SQLite`
-
-[View Repository](https://github.com/APRO-75/ecommerce-analytics_sql)
+</p>
 
 ---
 
-## Other Projects
+<h2 align="center">Languages & Tools</h2>
 
-**Gamified Samvidhan**
-
-A web application designed to make learning about the Indian Constitution more interactive through quizzes, learning modules, trivia, and rewards.
-
-`JavaScript` `React` `Node.js` `Firebase`
-
-[View Repository](https://github.com/APRO-75/gamified_samvidhan)
-
-**AutoCat**
-
-A Bash-based tool that simplifies common Hashcat operations through an interactive command-line interface.
-
-`Bash` `Hashcat`
-
-[View Repository](https://github.com/APRO-75/autocat)
-
-**EcoMetricAI**
-
-An AI-powered web application concept for tracking carbon emissions from everyday activities and providing recommendations to reduce environmental impact.
-
-`Python` `React` `Flask` `MongoDB` `TensorFlow`
-
-[View Repository](https://github.com/APRO-75/carbon-footprint-app)
-
-**PortfolioF**
-
-A personal portfolio project focused on presenting projects, skills, and professional information through a web interface.
-
-`HTML` `CSS` `JavaScript`
-
-[View Repository](https://github.com/APRO-75/PortfolioF)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,flask,tensorflow,opencv,git,github,docker,linux" />
+</p>
 
 ---
 
-## Research & Certifications
+<h2 align="center">Research & Certifications</h2>
 
-**IEEE PuneCon 2025**
-
-*Bridging Communication Gaps: A Comprehensive Approach to Sign Language Recognition*
-
-[View Publication](https://doi.org/10.1109/PuneCon67554.2025.11379312)
-
-**NPTEL**
-
-Cyber Security and Privacy
-
----
-
-## Areas of Interest
-
-Software Development · Cybersecurity · Artificial Intelligence · Machine Learning · Web Applications · LLMs
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/apoorva-prakash-a00196265) · [GitHub](https://github.com/APRO-75)
+<p align="center">
+  <a href="https://doi.org/10.1109/PuneCon67554.2025.11379312">
+    IEEE PuneCon 2025
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs116/Course/NPTEL25CS116S65400928810377974.pdf">
+    NPTEL Cyber Security and Privacy
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <sub>Build. Learn. Improve.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=APRO-75&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APRO-75&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=APRO-75&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>Build. Learn. Improve.</b>
 </p>
